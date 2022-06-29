@@ -1,0 +1,54 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Merle"
+    },
+    {
+      "id": 2,
+      "name": "Maude"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 3,
+      "plumberId": 1,
+      "date_created": 1656535199349,
+      "id": 1
+    },
+    {
+      "requestId": 4,
+      "plumberId": 1,
+      "date_created": 1656535298346,
+      "id": 2
+    },
+    {
+      "requestId": 3,
+      "plumberId": 2,
+      "date_created": 1656535299684,
+      "id": 3
+    },
+    {
+      "requestId": 3,
+      "plumberId": 1,
+      "date_created": 1656536375666,
+      "id": 4
+    }
+  ],
+  "requests": [
+    {
+      "description": "fix my plumbing",
+      "address": "1010 hodge street",
+      "budget": "407",
+      "neededBy": "0022-12-19",
+      "id": 3
+    },
+    {
+      "description": "sd",
+      "address": "d33",
+      "budget": "23",
+      "neededBy": "2022-06-03",
+      "id": 4
+    }
+  ]
+}
